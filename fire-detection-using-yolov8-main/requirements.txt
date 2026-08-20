@@ -1,0 +1,7 @@
+twilio
+opencv-python
+ultralytics
+numpy
+cvzone
+win10toast
+flask
